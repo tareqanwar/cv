@@ -57,7 +57,7 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 
 #### B.Sc. in Computer Science and Engineering, International Islamic University, Bangladesh (2008 to 2013)
 
-- 
+- Adding soon
 
 ## Experience
 
