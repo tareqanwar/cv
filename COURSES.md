@@ -33,4 +33,4 @@
 - Resume Building & Job Search Techniques
 - Indigenous Perspective
 
-Retrived from [WDD Couses and Description, UofW] (http://pace.uwinnipegcourses.ca/internet-systems-specialist-diploma/courses-and-descriptions)
+Retrived from [WDD Couses and Description, UofW](http://pace.uwinnipegcourses.ca/internet-systems-specialist-diploma/courses-and-descriptions)
