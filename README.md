@@ -48,7 +48,7 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 - Have a lot experience in customizing or adding funcationality in WP website.
 
 ## Education
-
+s
 #### Professional Diploma in Web Development, The University of Winnipeg, Canada (Jan, 2018 to Dec, 2018)
 
 - Most of the courses are realated to Web Development.
@@ -61,7 +61,7 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 
 ## Experience
 
-**Various Clients** (January, 2018 to Present)   
-* Freelance Web Developer*  
-** Funnel Geeks** (November, 2013 to December, 2017)    
-* Web Developer & Technical Support*  
+#### Various Clients (January, 2018 to Present)   
+- Freelance Web Developer
+#### Funnel Geeks (November, 2013 to December, 2017)    
+- Web Developer & Technical Support 
