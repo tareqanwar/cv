@@ -1,0 +1,61 @@
+* {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+h3 {
+  margin-bottom: 10px;
+  margin-top: 20px;
+  font-weight: 700;
+}
+
+h2 + h3 {
+  margin-top: 10px;
+}
+
+p,
+li {
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+a, a:visited, a:hover, a:active {
+  color: #006fbf;
+}
+
+.wrapper {
+  width: 1063px; 
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 2vh 0;
+}
+
+.sub-title {
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+
+.print-btn {
+  position: fixed;
+  right: 5%;
+  top: 4vh;
+  cursor: pointer;
+}
