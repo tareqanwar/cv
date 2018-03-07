@@ -37,12 +37,15 @@ li {
   text-align: justify;
 }
 
-a, a:visited, a:hover, a:active {
+a,
+a:visited,
+a:hover,
+a:active {
   color: #006fbf;
 }
 
 .wrapper {
-  width: 1063px; 
+  width: 1063px;
   max-width: 100%;
   margin: 0px auto;
   padding: 2vh 0;
@@ -62,25 +65,38 @@ button.print-button {
   top: 2vh;
   padding: 0;
   border: 0;
-  
+
   border: none;
   background: transparent;
 }
-span.print-icon, span.print-icon::before, span.print-icon::after, button.print-button:hover .print-icon::after {
+
+button.print-button:active {
+  outline: 0;
+  border: 0;
+}
+
+span.print-icon,
+span.print-icon::before,
+span.print-icon::after,
+button.print-button:hover .print-icon::after {
   border: solid 4px #333;
 }
+
 span.print-icon::after {
   border-width: 2px;
 }
 
-span.print-icon, span.print-icon::before, span.print-icon::after, button.print-button:hover .print-icon::after {
+span.print-icon,
+span.print-icon::before,
+span.print-icon::after,
+button.print-button:hover .print-icon::after {
   box-sizing: border-box;
   background-color: #fff;
 }
 
 span.print-icon {
   position: relative;
-  display: inline-block;  
+  display: inline-block;
   padding: 0;
   margin-top: 20%;
 
@@ -112,16 +128,14 @@ span.print-icon::after {
   background-repeat: no-repeat;
   background-size: 70% 90%;
   background-position: center;
-  background-image: linear-gradient(
-    to top,
-    #fff 0, #fff 14%,
-    #333 14%, #333 28%,
-    #fff 28%, #fff 42%,
-    #333 42%, #333 56%,
-    #fff 56%, #fff 70%,
-    #333 70%, #333 84%,
-    #fff 84%, #fff 100%
-  );
+  background-image: linear-gradient( to top,
+                    #fff 0, #fff 14%,
+                    #333 14%, #333 28%,
+                    #fff 28%, #fff 42%,
+                    #333 42%, #333 56%,
+                    #fff 56%, #fff 70%,
+                    #333 70%, #333 84%,
+                    #fff 84%, #fff 100%);
 
   transition: height .2s, border-width 0s .2s, width 0s .2s;
 }
@@ -131,11 +145,11 @@ button.print-button:hover {
 }
 
 button.print-button:hover .print-icon::before {
-  height:0px;
+  height: 0px;
   transition: height .2s;
 }
+
 button.print-button:hover .print-icon::after {
-  height:120%;
+  height: 120%;
   transition: height .2s .15s, border-width 0s .16s;
 }
-
