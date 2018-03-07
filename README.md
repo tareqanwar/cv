@@ -173,5 +173,3 @@ User can search and add their related post links directly inside their posts usi
 ### CONTACT:
 
 **URL:** tareqanwar.com
-
- Print
