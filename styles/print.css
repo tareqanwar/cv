@@ -1,0 +1,7 @@
+@page { 
+  size: auto;
+  margin: 1in; 
+}
+.print-button {
+  display: none;
+}
