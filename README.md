@@ -185,10 +185,4 @@ There many other projects I have work on that I can't include here due to signin
 
 ### CONTACT:
 
-**Address:** 512-250 Colony St, Winnipeg, MB R3C 3L8
-
-**Cell:** 204-952-0457
-
-**Email:** trqnwr@gmail.com
-
 **URL:** tareqanwar.com
