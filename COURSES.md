@@ -34,3 +34,146 @@
 - Indigenous Perspective
 
 Retrived from [WDD Couses and Description, UofW](http://pace.uwinnipegcourses.ca/internet-systems-specialist-diploma/courses-and-descriptions)
+
+## Courses - B.Sc. in Computer Science and Engineering
+
+- Financial and Managerial Accounting
+- Principles of Economics
+- Industrial Management
+- Mathematics II (Co-ordinate Geometry and Higher Trigonometry)
+- Mathematics III (Ordinary and Partial Differential Equations
+- Mathematics IV (Matrices, Linear System of Equations and Vector Analysis)
+- Mathematics V (Complex Variable, Fourier Analysis and Z-transform)
+- Physics I (Mechanics, Waves, Heat and Thermodynamics)
+- Physics I sessional (Mechanics, Waves, Heat and Thermodynamics)
+- Physics II (Electromagnetism, Optics and Modern Physics)
+- Physics II sessional (Electromagnetism, Optics and Modern Physics)
+- Chemistry
+- Statistics
+- Basic Electrical Engineering
+- Basic Electrical Engineering sessional
+- Electronic Devices and Circuits
+- Electronic Devices and Circuits sessional
+- Electrical Drives
+- Electrical Drives sessional
+- Computer Fundamentals
+- Computer Fundamentals sessional
+- Structured Programming
+- Structured Programming sessional
+- Engineering Drawing
+- Discrete Mathematics
+- Object Oriented Programming I
+- Object Oriented Programming I sessional
+- Data Structures
+- Data Structures sessional
+- Digital Logic Design
+- Digital Logic Design sessional
+- Object Oriented Programming II
+- Object Oriented Programming II sessional
+- Computer Algorithms
+- Computer Algorithms sessional
+- Digital Electronics and Pulse Techniques
+- Digital Electronics and Pulse Techniques sessional
+- Database System
+- Database System sessional
+- Assembly Language Programming
+- Microprocessors and Microcontrollers
+- Microprocessors and Microcontrollers sessional
+- Computer Architecture
+- Software Engineering
+- Internet Technologies and Web Programming
+- Internet Technologies and Web Programming sessional
+- Technical Writing and Presentation
+- Data Communication
+- Software Development sessional
+- Operating System
+- Operating System Sessional
+- System Analysis and Design
+- System Analysis and Design sessional
+- Numerical Methods
+- Numerical Methods sessional
+- Theory of Computing
+- Computer Networks
+- Computer Networks sessional
+- Computer Graphics
+- Computer Graphics sessional
+- Artificial Intelligence
+- Artificial Intelligence sessional
+- Field Work
+- Research Methodology & Seminar
+- Compiler
+- Compiler sessional
+- Impact of computer on Society
+- Sociology
+- Computer Ethics
+- Psychology
+- Business and Cyber Law
+- Government
+- Digital System Design
+- Digital System Design sessional
+- Fault Tolerant System
+- Fault Tolerant System sessional
+- Mathematical Analysis for Computer Science
+- Mathematical Analysis for Computer Science sessional
+- Basic Graph Theory
+- Basic Graph Theory sessional
+- Computer Simulation and Modeling
+- Computer Simulation and Modeling sessional
+- Special Topic on Computer Science and Engineering
+- Special Topic on Computer Science and Engineering sessional
+- Hardware: VLSI Design
+- Hardware: VLSI Design sessional
+- Hardware: Computer Interfacing
+- Hardware: Computer Interfacing sessional
+- Hardware: Embedded System
+- Hardware: Embedded System sessional
+- Hardware: Advanced Computer Architecture
+- Hardware: Advanced Computer Architecture sessional
+- Software: Object Oriented Analysis and Design
+- Software: Object Oriented Analysis and Design Sessional
+- Software: Decision Support System and Expert System
+- Software: Decision Support System Expert System sessional
+- Software: Distributed Database
+- Software: Distributed Database sessional
+- Software: Software Project Management
+- Software: Software Project Management sessional
+- Software: Software Quality Assurance
+- Software: Software Quality Assurance sessional
+- Com-Network: Wireless and Mobile Communication
+- Com-Network: Wireless and Mobile Communication sessional
+- Com-Network: Optical Fiber Communication
+- Com-Network: Optical Fiber Communication sessional
+- Com-Network: Communication Engineering
+- Com-Network: Communication Engineering sessional
+- Com-Network: Network Security
+- Com-Network: Network Security sessional
+- Multimedia Theory
+- Multimedia Theory sessional
+- Digital Signal Processing
+- Digital Signal Processing sessional
+- Bio-Informatics
+- Bio-Informatics sessional
+- Speach and Language Procesing
+- Speach and Language Procesing sessional
+- Geographical Information System
+- Geographical Information System sessional
+- Neural Network and Fuzzy System
+- Neural Network and Fuzzy System sessional
+- Computer Vision and Robotics
+- Computer Vision and Robotics sessional
+- Pattern Recognition and Image Processing
+- Pattern Recognition and Image Processing sessional
+- Machine Learning and Data Mining
+- Machine Learning and Data Mining sessional
+- Elementary Arabic
+- Advanced English
+- Islamic Aqidah
+- Introduction to Ibadah
+- Introduction to Quran and Sunnah
+- Government and Politics in Islam
+- Biography of the Prophet(SAW)
+- History of Khulafa-al-Rashedin
+- Bangladesh Studies
+- Project / Thesis
+
+Retrived from [Course List, B.Sc. in Computer Science and Engineering, IIUC](https://www.iiuc.ac.bd/program/cse)
