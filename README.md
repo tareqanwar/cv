@@ -87,6 +87,8 @@ Remote Web Developer & Technical Support
 - Bug fixes, copy update, managing domain & hosting, and other technical support.
 - Used Scrum methodology.
 
+* While working for Funnel Geeks, I have worked with a lot big clients like AgoraFinancial, Ryan Levesque, Vince Del Monte, Christine Kloser, Troy Broussard, and WickedReports etc.
+
 #### NanoITBD, Bangladesh (Feb 2012 to Aug 2013)
 
 Web Developer & Trainer
