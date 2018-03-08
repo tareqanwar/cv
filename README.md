@@ -50,6 +50,7 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 - Built websites for my clients using paid and custom theme.
 - Built few plugins for my clients.
 - Have a lot experience in customizing or adding functionality in WP websites.
+- I have added a plugin I have developed for public use in the portfolio section.
 
 ### EDUCATION:
 
