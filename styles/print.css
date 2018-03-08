@@ -2,6 +2,9 @@
   size: auto;
   margin: 1in; 
 }
+.wrapper {
+  padding: 0;
+}
 .print-button {
   display: none;
 }
