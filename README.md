@@ -1,6 +1,5 @@
 ## Mohammad Tareq Bin Anwar
-
-Web Developer
+A Passionate Web Developer
 
 ### OVERVIEW:
 
@@ -62,17 +61,37 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 
 #### B.Sc. in Computer Science and Engineering, International Islamic University, Bangladesh (2008 to 2013)
 
-- Adding soon
+Courses:
+
+- Data Structure
+- Object Oriented Programming
+- Software Engineering
+- Algorithms
+- Mathematics
+- Artificial Intelegence
+- Operating Systems
+- Programming Language: C, C++, Java
+- To learn about all the courses check the link here: [https://github.com/tareqanwar/cv/blob/master/COURSES.md](https://github.com/tareqanwar/cv/blob/master/COURSES.md)
 
 ### EXPERIENCE:
 
-#### Various Clients (Jan 2018 to Present)
+#### Funnel Geeks LLC, USA (Nov 2013 to Dec 2017)
 
-- Freelance Web Developer
+Remote Web Developer & Technical Support
 
-#### Funnel Geeks (Nov 2013 to Dec 2017)
+- Built a lot of sales funnel. Quiz -&gt; VSL/Sales Letter -&gt; Order Form (custom or 3rd party tools) -&gt; One click upsells -&gt; Thank you page.
+- Learned and used following tools like a pro: Infusionsoft, Ontraport, Maropost, DeadlineFunnel, SurveyFunnel.io, Stripe, Klaviyo, ShipStation, EverWebenair, and many other tools.
+- Created a lot of API scripts to do various custom tasks for above tools. Example: sending Infusionsoft orders to ShipStation using API, send Ontraport contact data to Maropost and vice versa etc.
+- Built membership sites using iMember360, Optimizepress etc.
+- Bug fixes, copy update, managing domain & hosting, and other technical support.
+- Used Scrum methodology.
 
-- Web Developer & Technical Support
+#### NanoITBD, Bangladesh (Feb 2012 to Aug 2013)
+
+Web Developer & Trainer
+
+- Taught HTML5, CSS3 and JavaScript to Students.
+- Built PHP applications and websites for various clients.
 
 ### PORTFOLIO:
 
@@ -164,12 +183,22 @@ Built it for a personal client. Need infusionsoft login to access the app.
 
 #### WP Plugin - Related Posts Inside Content
 
-**URL:** [https://goo.gl/6oL3JZ](https://github.com/tareqanwar/related-links-inside-content)
+**URL:** [https://github.com/tareqanwar/related-links-inside-content](https://github.com/tareqanwar/related-links-inside-content)
 
 **Technology Used:** PHP, WP Functions, HTML5, CSS3, and JavaScript
 
 User can search and add their related post links directly inside their posts using the shortcode. When they are adding a new post or editing a post, they will see a custom panel named "Select One to Three Related Posts (Optional)". There they can search posts related to their current post and select the one they want. Then they can copy and paste the relevant shortcode into the post where they want to show the link. This will show that link in the post content.
 
+#### Other Projects
+
+There many other projects I have work on that I can't include here due to signing up NDA. I have worked on and built a lof sales funnel while working in Funnel Geeks and as Freelancer. I have built custom order form for Infusionsoft, Ontraport, and Stripe. Built many API scripts, WP plugins, and JavaScript tools that do specific tasks on client's website.
+
 ### CONTACT:
+
+**Address:** 512-250 Colony St, Winnipeg, MB R3C 3L8
+
+**Cell:** 204-952-0457
+
+**Email:** trqnwr@gmail.com
 
 **URL:** tareqanwar.com
