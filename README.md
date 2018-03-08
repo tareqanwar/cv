@@ -13,7 +13,7 @@ I'm a full stack web developer. After completing B.Sc. in Computer Science and E
 - I am familiar with Scrum and other development methodology.
 - I am familiar with Trello, Basecamp and other project management tools.
 
-## SKILLS:
+## SKILLS
 
 ### HTML5 + CSS3
 
@@ -60,7 +60,7 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 - Have a lot experience in customizing or adding functionality in WP websites.
 - I have added a plugin I have developed for public use in the portfolio section.
 
-## EDUCATION:
+## EDUCATION
 
 ### Professional Diploma in Web Development, The University of Winnipeg, Canada (Jan 2018 to Dec 2018)
 
@@ -82,7 +82,7 @@ Courses:
 - Programming Language: C, C++, Java
 - To learn about all the courses check the link here: [https://github.com/tareqanwar/cv/blob/master/COURSES.md](https://github.com/tareqanwar/cv/blob/master/COURSES.md)
 
-## EXPERIENCE:
+## EXPERIENCE
 
 ### Funnel Geeks LLC, USA (Nov 2013 to Dec 2017)
 
@@ -104,7 +104,7 @@ Web Developer & Trainer
 - Taught HTML5, CSS3 and JavaScript to Students.
 - Built PHP applications and websites for various clients.
 
-## PORTFOLIO:
+## PORTFOLIO
 
 ### Tareq B. Anwar's Website
 
@@ -194,6 +194,6 @@ User can search and add their related post links directly inside their posts usi
 
 There many other projects I have work on that I can't include here due to signing up NDA. I have worked on and built a lof sales funnel while working in Funnel Geeks and as Freelancer. I have built custom order form for Infusionsoft, Ontraport, and Stripe. Built many API scripts, WP plugins, and JavaScript tools that do specific tasks on client's website.
 
-## CONTACT:
+## CONTACT
 
 **URL:** tareqanwar.com
