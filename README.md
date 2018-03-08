@@ -109,7 +109,7 @@ The animation was done by both CSS3 and JS.
 
 **Technology Used**: HTML5, CSS3, Bootstrap, JavaScript, and Jquery.
 
-It supports both button and keyboard. There's few known bugs that I need to fix. To calculate the result of a question I used JS eval() function.
+It supports both button and keyboard. There's few known bugs that I need to fix. To calculate the result of equation I used JS eval() function.
 
 Built it for Free Code Camp certifications.
 
