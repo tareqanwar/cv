@@ -5,11 +5,11 @@ Web Developer
 
 I'm a full stack web developer. After completing B.Sc. in Computer Science and Engineering, I started my career as a web developer. Programming is my passion. I am always learning and trying to keep up with the help of the internet. I love FreeCodeCamp and other open-source community. Pursuing a Web Development diploma at the University of Winnipeg. Also, I have a plan to obtain all the certificates from Free Code Camp.
 
-- I am fast learner.
-- I am good at working with team.
-- I can learn and work on any technolgy needed.
+- I am a fast learner.
+- I am good at working with the team.
+- I can learn and work on any technology needed.
 - I love coding for the community.
-- I am familiar with Scrum and other developmet methedology.
+- I am familiar with Scrum and other development methodology.
 - I am familiar with Trello, Basecamp and other project management tools.
 
 ### SKILLS:
