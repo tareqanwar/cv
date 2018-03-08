@@ -1,5 +1,5 @@
 ## Mohammad Tareq Bin Anwar
-A Passionate Web Developer
+Web Developer
 
 ### OVERVIEW:
 
@@ -13,8 +13,8 @@ I Learned HTML and CSS in 2011. I am very good at HTML 5 and CSS3. I have both p
 
 - Used to teach HTML, CSS & JavaScript in a coaching center. It was back in 2012.
 - Built a lot of web pages using it.
-- Have a lot of experience in converting PSD to HTML
-- Can use Bootstrap, Semantic, Foundation and other CSS Framworks
+- Have a lot of experience in converting PSD to HTML.
+- Can use Bootstrap, Semantic, Foundation and other CSS Frameworks.
 
 #### JavaScript
 
@@ -64,11 +64,11 @@ It's not a skill I want to use or love. But I had to use it for my clients.
 Courses:
 
 - Data Structure
-- Object Oriented Programming
+- Object-Oriented Programming
 - Software Engineering
 - Algorithms
 - Mathematics
-- Artificial Intelegence
+- Artificial Intelligence
 - Operating Systems
 - Programming Language: C, C++, Java
 - To learn about all the courses check the link here: [https://github.com/tareqanwar/cv/blob/master/COURSES.md](https://github.com/tareqanwar/cv/blob/master/COURSES.md)
@@ -109,7 +109,7 @@ The animation was done by both CSS3 and JS.
 
 **Technology Used**: HTML5, CSS3, Bootstrap, JavaScript, and Jquery.
 
-It supports both button and keyboard. There's few known bug that I need to fix. To calculate the result of a question I used JS eval() function.
+It supports both button and keyboard. There's few known bugs that I need to fix. To calculate the result of a question I used JS eval() function.
 
 Built it for Free Code Camp certifications.
 
@@ -119,7 +119,7 @@ Built it for Free Code Camp certifications.
 
 **Technology Used:** HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.
 
-It just shows the current weather condition for user's location. I used IPInfo.com to get the location of the user and OpenWeather API to get the wather result.
+It just shows the current weather condition for user's location. I used IPInfo.com to get the location of the user and OpenWeather API to get the water result.
 
 Built it for FCC certifications.
 
@@ -129,7 +129,7 @@ Built it for FCC certifications.
 
 **Technology Used:** HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.
 
-User will see random quote from a JSON file when they click "Get Quote" button. They will be able to tweet it directly to their profile.
+Users will see random quotes from a JSON file when they click "Get Quote" button. They will be able to tweet it directly to their profile.
 
 Built it for FCC certifications.
 
@@ -139,7 +139,7 @@ Built it for FCC certifications.
 
 **Technology Used:** HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.
 
-User can search for wikipedia article here. There is link to go to random wikipedia article as well.
+can search for Wikipedia article here. There is link to go to random Wikipedia article as well.
 
 Built it for FCC certifications.
 
@@ -149,23 +149,13 @@ Built it for FCC certifications.
 
 **Technology Used:** PHP, Infusionsoft API, HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.
 
-User can login using their infusionsoft account. They can apply or remove multiple tag to or from multiple people at once. There will be a CSV log file available to download.
+User can login using their Infusionsoft account. They can apply or remove multiple tags to or from multiple people at once. There will be a CSV log file available to download.
 
-Built it for a client. Need infusionsoft login to access the app.
-
-#### Infusionsoft Mass Tagging System
-
-**URL:** [http://funnelgeeks.com/dev/infs](http://funnelgeeks.com/dev/infs)
-
-**Technology Used:** PHP, Infusionsoft API, HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.
-
-User can login using their infusionsoft account. They can apply or remove multiple tag to or from multiple people at once. There will be a CSV log file available to download.
-
-Built it for a personal client. Need infusionsoft login to access the app.
+Built it for a client. Need Infusionsoft login to access the app.
 
 #### Slack App - Reply to customer comments (in a WP site) directly from slack
 
-**Technology Used:** PHP, Slack Api, Slack Slash Commands App Builder
+**Technology Used:** PHP, Slack API, Slack Slash Commands App Builder
 
 There is Wordpress Slack plugin that sends comment to slack channel when someone comments. But it doesn't support reply to that comment from slack. So, I had to build a slack app for the client so then can reply to individual comment from slack channel.
 
@@ -177,9 +167,9 @@ Built it for a personal client.
 
 **Technology Used:** PHP, Stripe API, HTML5, CSS3, and Bootstrap
 
-User can login using their infusionsoft account. They can apply or remove multiple tag to or from multiple people at once. There will be a CSV log file available to download.
+User can login using their Infusionsoft account. They can apply or remove multiple tag to or from multiple people at once. There will be a CSV log file available to download.
 
-Built it for a personal client. Need infusionsoft login to access the app.
+Built it for a personal client. Need Infusionsoft login to access the app.
 
 #### WP Plugin - Related Posts Inside Content
 
@@ -194,5 +184,11 @@ User can search and add their related post links directly inside their posts usi
 There many other projects I have work on that I can't include here due to signing up NDA. I have worked on and built a lof sales funnel while working in Funnel Geeks and as Freelancer. I have built custom order form for Infusionsoft, Ontraport, and Stripe. Built many API scripts, WP plugins, and JavaScript tools that do specific tasks on client's website.
 
 ### CONTACT:
+
+**Address:** 512-250 Colony St, Winnipeg, MB R3C 3L8
+
+**Cell:** 204-952-0457
+
+**Email:** trqnwr@gmail.com
 
 **URL:** tareqanwar.com
