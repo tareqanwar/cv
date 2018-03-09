@@ -184,7 +184,7 @@ Built it for a personal client. Need Infusionsoft login to access the app.
 
 ### WP Plugin - Related Posts Inside Content
 
-**URL:** [https://github.com/tareqanwar/related-links-inside-content](https://github.com/tareqanwar/related-links-inside-content)
+**URL:** [https://wordpress.org/plugins/related-links-inside-content](https://wordpress.org/plugins/related-links-inside-content)
 
 **Technology Used:** PHP, WP Functions, HTML5, CSS3, and JavaScript
 
