@@ -175,7 +175,8 @@ Built websites for my clients using paid and custom theme. Built few plugins and
 
 ## Select Projects
 
-### Web Calculator || URL: [tareqanwar.com/caculator](http://tareqanwar.com/caculator)
+### Web Calculator
+**URL: [tareqanwar.com/caculator](http://tareqanwar.com/caculator)**
 
 **Technology Used**: HTML5, CSS3, Bootstrap, JavaScript, and Jquery.
 
@@ -183,7 +184,8 @@ It supports both button and keyboard. There's few known bugs that I need to fix.
 
 Built it for Free Code Camp certifications.
 
-### Local Weather || URL: [tareqanwar.com/local-weather](http://tareqanwar.com/local-weather)
+### Local Weather 
+**URL: [tareqanwar.com/local-weather](http://tareqanwar.com/local-weather)**
 
 **Technology Used: HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
 
@@ -191,7 +193,8 @@ It just shows the current weather condition for user's location. I used IPInfo.c
 
 Built it for FCC certifications.
 
-### Random Quote Machine || URL: [tareqanwar.com/random-quote-machine](http://www.tareqanwar.com/random-quote-machine)
+### Random Quote Machine 
+**URL: [tareqanwar.com/random-quote-machine](http://www.tareqanwar.com/random-quote-machine)**
 
 **Technology Used: HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
 
@@ -199,7 +202,8 @@ Users will see random quotes from a JSON file when they click "Get Quote" button
 
 Built it for FCC certifications.
 
-### Wikipedia Viewer || URL: [tareqanwar.com/wikipedia-viewer](http://www.tareqanwar.com/wikipedia-viewer)
+### Wikipedia Viewer
+**URL: [tareqanwar.com/wikipedia-viewer](http://www.tareqanwar.com/wikipedia-viewer)**
 
 **Technology Used: HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
 
@@ -207,7 +211,8 @@ Users can search for Wikipedia article here. There is link to go to random Wikip
 
 Built it for FCC certifications.
 
-### Infusionsoft Mass Tagging System || URL: [funnelgeeks.com/dev/infs](http://funnelgeeks.com/dev/infs)
+### Infusionsoft Mass Tagging System 
+**URL: [funnelgeeks.com/dev/infs](http://funnelgeeks.com/dev/infs)**
 
 **Technology Used: PHP, Infusionsoft API, HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
 
@@ -223,7 +228,8 @@ There is Wordpress Slack plugin that sends comment to slack channel when someone
 
 Built it for a personal client.
 
-### Update Credit Card tool for Stripe || URL: [https://goo.gl/k5cqNU](http://funnelgeeks.com/dev/update-cc/?test=yes&customer_id=cus_AzvvNziUSGgR4R)
+### Update Credit Card tool for Stripe 
+**URL: [https://goo.gl/k5cqNU](http://funnelgeeks.com/dev/update-cc/?test=yes&customer_id=cus_AzvvNziUSGgR4R)**
 
 **Technology Used: PHP, Stripe API, HTML5, CSS3, and Bootstrap**
 
@@ -231,6 +237,7 @@ User can login using their Infusionsoft account. They can apply or remove multip
 
 Built it for a personal client. Need Infusionsoft login to access the app.
 
-### WP Plugin - Related Posts Inside Content || URL: [https://wordpress.org/plugins/related-links-inside-content/](https://wordpress.org/plugins/related-links-inside-content/)
+### WP Plugin - Related Posts Inside Content 
+**URL: [https://wordpress.org/plugins/related-links-inside-content/](https://wordpress.org/plugins/related-links-inside-content/)**
 
 **Technology Used: PHP, WP Functions, HTML5, CSS3, and JavaScript**
