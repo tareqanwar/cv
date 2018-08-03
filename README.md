@@ -176,7 +176,7 @@ Built websites for my clients using paid and custom theme. Built few plugins and
 ## Select Projects
 
 ### Web Calculator
-**URL: [tareqanwar.com/caculator](http://tareqanwar.com/caculator)**
+**URL: [tareqanwar.com/caculator](http://tareqanwar.com/calculator)**
 
 **Technology Used**: HTML5, CSS3, Bootstrap, JavaScript, and Jquery.
 
