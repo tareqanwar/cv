@@ -152,3 +152,13 @@ button.print-button:hover .print-icon::after {
   height: 120%;
   transition: height .2s .15s, border-width 0s .16s;
 }
+
+table tr {
+    background-color: #fff;
+    border-top: 1px solid #c6cbd1;
+}
+
+table th, table td {
+    padding: 6px 13px;
+    border: 1px solid #dfe2e5;
+}
