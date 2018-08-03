@@ -187,8 +187,6 @@ Built it for Free Code Camp certifications.
 
 **Technology Used: HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
 
-**
-
 It just shows the current weather condition for user's location. I used IPInfo.com to get the location of the user and OpenWeather API to get the water result.
 
 Built it for FCC certifications.
@@ -196,8 +194,6 @@ Built it for FCC certifications.
 ### Random Quote Machine || URL: [tareqanwar.com/random-quote-machine](http://www.tareqanwar.com/random-quote-machine)
 
 **Technology Used: HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
-
-**
 
 Users will see random quotes from a JSON file when they click "Get Quote" button. They will be able to tweet it directly to their profile.
 
@@ -207,8 +203,6 @@ Built it for FCC certifications.
 
 **Technology Used: HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
 
-**
-
 Users can search for Wikipedia article here. There is link to go to random Wikipedia article as well.
 
 Built it for FCC certifications.
@@ -216,8 +210,6 @@ Built it for FCC certifications.
 ### Infusionsoft Mass Tagging System || URL: [funnelgeeks.com/dev/infs](http://funnelgeeks.com/dev/infs)
 
 **Technology Used: PHP, Infusionsoft API, HTML5, CSS3, Bootstrap, JavaScript, and AngularJS.**
-
-**
 
 User can login using their Infusionsoft account. They can apply or remove multiple tags to or from multiple people at once. There will be a CSV log file available to download.
 
@@ -227,8 +219,6 @@ Built it for a client. Need Infusionsoft login to access the app.
 
 **Technology Used: PHP, Slack API, Slack Slash Commands App Builder**
 
-**
-
 There is Wordpress Slack plugin that sends comment to slack channel when someone comments. But it doesn't support reply to that comment from slack. So, I had to build a slack app for the client so then can reply to individual comment from slack channel.
 
 Built it for a personal client.
@@ -236,8 +226,6 @@ Built it for a personal client.
 ### Update Credit Card tool for Stripe || URL: [https://goo.gl/k5cqNU](http://funnelgeeks.com/dev/update-cc/?test=yes&customer_id=cus_AzvvNziUSGgR4R)
 
 **Technology Used: PHP, Stripe API, HTML5, CSS3, and Bootstrap**
-
-**
 
 User can login using their Infusionsoft account. They can apply or remove multiple tag to or from multiple people at once. There will be a CSV log file available to download.
 
