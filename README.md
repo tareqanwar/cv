@@ -71,7 +71,7 @@ C++
 
 <td>
 
-I have experience in C++ and OOP. I first learned C++ and Java when I was doing my undergrad. Was away from it for a long time. Now refreshing my C++ knowledge by practicing and solving problem in codewars.com. Recently, I built some simple 2D games and building a Math Engine for 2D & 3D math using C++.
+I have experience in C++. I first learned C++ and Java when I was doing my undergrad. Was away from it for a long time. Now refreshing my C++ knowledge by practicing and solving problem in codewars.com. Recently, I built some simple 2D games and building a Math Engine for 2D & 3D math using C++.
 
 </td>
 
