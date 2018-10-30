@@ -103,7 +103,7 @@ PHP & SQL
 
 <td>
 
-I have excellent skill in PHP & good experience in Laravel. Used PHP & mariadb for all the backend work I have done for my clients. Have a lot of experience in coding API. I have built a lot of scripts for my clients using API from Infusionsoft, Ontraport, Klaviyo, Maropost, ClickBank, Stripe, and ShipStation.
+I have excellent skill in PHP & good experience in Laravel. Used PHP & MariaDB for all the backend work I have done for my clients. Have a lot of experience in coding API. I have built a lot of scripts for my clients using API from Infusionsoft, Ontraport, Klaviyo, Maropost, ClickBank, Stripe, and ShipStation.
 
 </td>
 
@@ -129,7 +129,7 @@ Have learned and used it in class assignments. Has basic understanding on it.
 
 <td>
 
-Wordpress
+WordPress
 
 </td>
 
