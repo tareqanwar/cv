@@ -87,7 +87,7 @@ JavaScript
 
 <td>
 
-Used to teach JavaScript while working at NanoITBD in 2012\. Have used JavaScript in a lot of websites. Always try to be updated with recent ES versions.
+Used to teach JavaScript while working at NanoITBD in 2012. Have used JavaScript in a lot of websites. I have experience with AngularJS, NodeJS, Express, MongoDB, & ReactJS with Redux. Always try to be updated with recent ES versions.
 
 </td>
 
