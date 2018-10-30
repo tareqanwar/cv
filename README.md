@@ -9,10 +9,9 @@ I am passionate about programming and have more than 5 years of experience as a 
 ## Select Accomplishments
 
 *   4 Years bachelor’s degree in computer science and engineering.
-*   Experience with OOP.
-*   Good understanding in C++ & basic knowledge of Java.
-*   Great experience in PHP, MariaDB, JavaScript & various JS framework.
-*   Experience with programming and debugging applications.
+*   More than 5 years of experience as a developer
+*   Experienced with programming and debugging applications.
+*   Experienced in various programming languages.
 *   Good in Mathematics.
 *   Understanding of software development processes.
 *   I have worked with other developers on various web applications. Divided up application features and merged finished features to complete project. Constantly communicated with each other to minimize errors.
@@ -148,6 +147,7 @@ Build couple of WP plugins. Have experience at building custom theme and customi
 
 ### Other Skills
 
+*   Great experience in OOP. Used OOP in C++, Java, JS & PHP.
 *   Good at Linux. Built my own RaspberyPI server and media station. Also use WSL in Windows 10 for almost all development work.
 *   Problem solving skills. I was known to my collages for finding solutions for complex problems.
 *   I can work independently. That's how I worked in my last job. I just reported back to my project manager after completing a task.
