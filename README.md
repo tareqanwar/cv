@@ -4,7 +4,7 @@ Programmer
 
 ## Overview
 
-I am passionate about programming. I want to be game engine developer. I love gaming and game industry. I have more than 5 years of experience as a developer & a 4 years computer science degree. On the way to complete a one-year Web Development Diploma in University of Winnipeg. To my colleagues I am known for accepting new challenges, delivering the work and as a problem solver. I never say no when I am assigned a task. If I have the opportunity to work on something new, I love it. I deliver every time whether on a team or individual.
+I am passionate about programming and have more than 5 years of experience as a developer. I have completed my 4 years computer science degree in 2012 & on the way to complete a one-year Web Development Diploma in University of Winnipeg. To my colleagues I am known for accepting new challenges, delivering the work and as a problem solver. I like new chalenges. If I have the opportunity to work on something new, I love it. I deliver every time whether on a team or individual.
 
 ## Select Accomplishments
 
