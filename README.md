@@ -125,6 +125,22 @@ Have learned and used it in class assignments. Has basic understanding on it.
 
 </tr>
 
+<tr>
+
+<td>
+
+Wordpress
+
+</td>
+
+<td>
+
+Build couple of WP plugins. Have experience at building custom theme and customizing theme functionality.
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -136,11 +152,8 @@ Have learned and used it in class assignments. Has basic understanding on it.
 *   I can work independently. That's how I worked in my last job. I just reported back to my project manager after completing a task.
 *   Can work as a team as well. I have worked on many projects with other team members when I was in school.
 *   I am flexible and able to adapt to changes.
-*   I love Linux. Since, I can’t fully convert to Linux because of gaming, I use WSL in windows 10 for development purpose.
-*   I am good at using Git.
-*   I know how to use, build and test using Travis CI.
-*   Good understanding of webpack.
-*   Good understanding of Docker.
+*   I am great at using Git.
+*   Good understanding of webpack, Docker, Travis CI.
 
 ## Education
 
