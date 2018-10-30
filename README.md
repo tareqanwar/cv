@@ -9,9 +9,10 @@ I am passionate about programming and have more than 5 years of experience as a 
 ## Select Accomplishments
 
 *   4 Years bachelor’s degree in computer science and engineering.
-*   Good understanding C++ & basic knowledge of Java.
-*   Experience with programming and debugging applications.
 *   Experience with OOP.
+*   Good understanding in C++ & basic knowledge of Java.
+*   Great experience in PHP, MariaDB, JavaScript & various JS framework.
+*   Experience with programming and debugging applications.
 *   Good in Mathematics.
 *   Understanding of software development processes.
 *   I have worked with other developers on various web applications. Divided up application features and merged finished features to complete project. Constantly communicated with each other to minimize errors.
