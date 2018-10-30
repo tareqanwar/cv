@@ -87,7 +87,7 @@ JavaScript
 
 <td>
 
-Used to teach JavaScript while working at NanoITBD in 2012. Have used JavaScript in a lot of websites. I have experience with AngularJS, NodeJS, Express, MongoDB, & ReactJS with Redux. Always try to be updated with recent ES versions.
+Used to teach JavaScript while working at NanoITBD in 2012\. Have used JavaScript in a lot of websites. I have experience with AngularJS, NodeJS, Express, MongoDB, & ReactJS with Redux. Always try to be updated with recent ES versions.
 
 </td>
 
@@ -97,13 +97,29 @@ Used to teach JavaScript while working at NanoITBD in 2012. Have used JavaScript
 
 <td>
 
-PHP, Laravel & SQL
+PHP & SQL
 
 </td>
 
 <td>
 
-I have excellent skill in PHP & good knowledge in Laravel and using it for my Final Project for my Diploma. Used PHP & mariadb for all the backend work I have done for my clients. Have a lot of experience in coding API. I have built a lot of scripts for my clients using API from Infusionsoft, Ontraport, Klaviyo, Maropost, ClickBank, Stripe, and ShipStation.
+I have excellent skill in PHP & good experience in Laravel. Used PHP & mariadb for all the backend work I have done for my clients. Have a lot of experience in coding API. I have built a lot of scripts for my clients using API from Infusionsoft, Ontraport, Klaviyo, Maropost, ClickBank, Stripe, and ShipStation.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Java
+
+</td>
+
+<td>
+
+Have learned and used it in class assignments. Has basic understanding on it.
 
 </td>
 
@@ -115,13 +131,16 @@ I have excellent skill in PHP & good knowledge in Laravel and using it for my Fi
 
 ### Other Skills
 
-*   I love gaming.
+*   Good at Linux. Built my own RaspberyPI server and media station. Also use WSL in Windows 10 for almost all development work.
 *   Problem solving skills. I was known to my collages for finding solutions for complex problems.
 *   I can work independently. That's how I worked in my last job. I just reported back to my project manager after completing a task.
 *   Can work as a team as well. I have worked on many projects with other team members when I was in school.
 *   I am flexible and able to adapt to changes.
 *   I love Linux. Since, I can’t fully convert to Linux because of gaming, I use WSL in windows 10 for development purpose.
-*   I love using Git.
+*   I am good at using Git.
+*   I know how to use, build and test using Travis CI.
+*   Good understanding of webpack.
+*   Good understanding of Docker.
 
 ## Education
 
