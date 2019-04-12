@@ -125,22 +125,6 @@ Have learned and used it in class assignments. Has basic understanding on it.
 
 </tr>
 
-<tr>
-
-<td>
-
-WordPress
-
-</td>
-
-<td>
-
-Build couple of WP plugins. Have experience at building custom theme and customizing theme functionality.
-
-</td>
-
-</tr>
-
 </tbody>
 
 </table>
