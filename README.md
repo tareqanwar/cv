@@ -4,7 +4,7 @@ Programmer
 
 ## Overview
 
-I am passionate about programming and have more than 5 years of experience as a developer. I have completed my 4 years computer science degree in 2012 & on the way to complete Web Development PACE Program in University of Winnipeg. To my colleagues I am known for accepting new challenges, delivering the work and as a problem solver. I like new challenges. If I have the opportunity to work on something new, I love it. I deliver every time whether on a team or individual.
+I am passionate about programming and have more than 6 years of experience as a developer. I have completed my 4 years computer science degree in 2012 & Web Development PACE Program in University of Winnipeg. To my colleagues I am known for accepting new challenges, delivering the work and as a problem solver. I like new challenges. If I have the opportunity to work on something new, I love it. I deliver every time whether on a team or individual.
 
 ## Select Accomplishments
 
@@ -14,10 +14,15 @@ I am passionate about programming and have more than 5 years of experience as a 
 *   Experienced in various programming languages.
 *   Good in Mathematics.
 *   Understanding of software development processes.
-*   I have worked with other developers on various web applications. Divided up application features and merged finished features to complete project. Constantly communicated with each other to minimize errors.
-*   Stayed in constant communication with project manager to give status updates and ensure project was on track. Used different project management tools like Trello, Favro, Basecamp to keep in touch.
-
+*   I have worked with other developers on various software and web applications. 
 ## Experience
+
+### Bold Commerce, Canada (Jan 2019 to Present)
+
+Software Developer
+*   Working on various ecommerce tools and softwares. 
+*   Contributed on building scallable apps and functionalities. 
+*   Hightly experienced on payment gateways and api integrations.
 
 ### Funnel Geeks LLC, USA (Nov 2013 to Dec 2017)
 
@@ -81,13 +86,13 @@ I have experience in C++. I first learned C++ and Java when I was doing my under
 
 <td>
 
-JavaScript
+JavaScript, React & Redux
 
 </td>
 
 <td>
 
-Used to teach JavaScript while working at NanoITBD in 2012. Have used JavaScript in a lot of websites. I have experience with AngularJS, NodeJS, Express, MongoDB, & ReactJS with Redux. Always try to be updated with recent ES versions.
+Excelenet in Javascript. Worked with React and Redux on various softwares. 
 
 </td>
 
@@ -103,7 +108,7 @@ PHP & SQL
 
 <td>
 
-I have excellent skill in PHP & good experience in Laravel. Used PHP & MariaDB for all the backend work I have done for my clients. Have a lot of experience in coding API. I have built a lot of scripts for my clients using API from Infusionsoft, Ontraport, Klaviyo, Maropost, ClickBank, Stripe, and ShipStation.
+I have excellent skill in PHP. Worked on Laravel and other frameworks. Have a lot of experience in building and integrating API. 
 
 </td>
 
@@ -113,13 +118,13 @@ I have excellent skill in PHP & good experience in Laravel. Used PHP & MariaDB f
 
 <td>
 
-Java
+Go
 
 </td>
 
 <td>
 
-Have learned and used it in class assignments. Has basic understanding on it.
+Have learned and used it on few occasions in Bold Commerce. 
 
 </td>
 
@@ -132,13 +137,13 @@ Have learned and used it in class assignments. Has basic understanding on it.
 ### Other Skills
 
 *   Great experience in OOP. Used OOP in C++, Java, JS & PHP.
-*   Good at Linux. Built my own RaspberryPI server and media station. Also use WSL in Windows 10 for almost all development work.
+*   Good at Linux. Built my own RaspberryPI server and media station. Also use WSL in Windows 10 for almost all personal development work.
 *   Problem solving skills. I was known to my collages for finding solutions for complex problems.
 *   I can work independently. That's how I worked in my last job. I just reported back to my project manager after completing a task.
 *   Can work as a team as well. I have worked on many projects with other team members when I was in school.
 *   I am flexible and able to adapt to changes.
 *   I am great at using Git.
-*   Good understanding of webpack, Docker, Travis CI.
+*   Good understanding of Docker, K8 and various CIs.
 
 ## Education
 
