@@ -1,6 +1,6 @@
 # Mohammad Tareq Bin Anwar, B.Sc.
 
-Programmer
+Software Developer
 
 ## Overview
 
