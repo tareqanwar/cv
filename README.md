@@ -106,22 +106,6 @@ Working on a pet project with Ruby on Rails. Building backend API with GraphQL.
 
 </tr>
 
-<tr>
-
-<td>
-
-Go
-
-</td>
-
-<td>
-
-Have learned and used it on few occasions in Bold Commerce. 
-
-</td>
-
-</tr>
-
 </tbody>
 
 </table>
