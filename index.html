@@ -39,16 +39,16 @@
 
         <h2>Skills</h2>
         
-        const dat<canvas id="skillChart" width="400" height="400"></canvas>
+        <canvas id="skillChart" width="400" height="100"></canvas>
         <script>
         const ctx = document.getElementById('skillChart').getContext('2d');
         const skillChart = new Chart(ctx, {
             type: 'bar',
             data: {
-                labels: ['JavaScript', 'PHP & Laravel', 'React', 'SQL', 'NodeJs', 'Ruby on Rails', 'C++ & Java'],
+                labels: ['JavaScript', 'PHP & Laravel', 'SQL', 'React', 'NodeJs', 'Ruby on Rails', 'C++ & Java'],
                 datasets: [{
-                    label: 'Years of Experience',
-                    data: [8, 8, 4, 8, 2, 1, 1],
+                    label: 'Professional Experience', 'Personal Experience',
+                    data: [8, 8, 8, 4, 2, 1, 1],
                     backgroundColor: [
                         'rgba(75, 192, 192, 0.2)',
                         'rgba(75, 192, 192, 0.2)',
