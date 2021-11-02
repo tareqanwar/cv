@@ -66,13 +66,13 @@ PHP & Laravel
 
 <td>
 
-NodeJS
+SQL
 
 </td>
 
 <td>
 
-2+ years experience on various personal projects. 
+8+ years professional and two years personal experience.
 
 </td>
 
@@ -89,6 +89,22 @@ React
 <td>
 
 4+ years professional experience. 
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+NodeJS
+
+</td>
+
+<td>
+
+2+ years experience on various personal projects. 
 
 </td>
 
