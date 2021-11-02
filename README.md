@@ -159,7 +159,7 @@ Remote Web Developer & Technical Support
 
 -   Data Structure, OOP, Software Engineering, Algorithms, Math, AI, Operating Systems, C, C++, Java
 
-### Other Skills
+### Other bits/byte
 
 -   2+ Years freelancing and teaching experience from March 2011 to October 2013
 -   Understanding of software development processes.
