@@ -27,11 +27,10 @@
         <h2>Overview</h2>
 
         <p>
-            I'm passionate about programming and have more than seven years of experience as a developer. 
+            I'm passionate about programming and have more than seven years of experience working onsite and remote as a developer. 
             I have a four years BSc in Computer Science degree and a one-year programming degree. 
-            I am known for accepting new challenges, delivering the work, and as a problem solver to my colleagues. 
-            I have a lot of experience working onsite and remotely with various teams and have always excelled there. 
-            I'm good at moving a project or feature from planning, estimation to done.
+            To my colleagues, I am known for accepting new challenges, carrying and delivering the work. 
+            I love technology and be blessed to be born in this era.
         </p>
 
         <!-- Overview Ends Here -->
@@ -39,6 +38,47 @@
         <!-- Skills Starts Here -->
 
         <h2>Skills</h2>
+        
+        const dat<canvas id="skillChart" width="400" height="400"></canvas>
+        <script>
+        const ctx = document.getElementById('skillChart').getContext('2d');
+        const skillChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['JavaScript', 'PHP & Laravel', 'React', 'SQL', 'NodeJs', 'Ruby on Rails', 'C++ & Java'],
+                datasets: [{
+                    label: 'Years of Experience',
+                    data: [8, 8, 4, 8, 2, 1, 1],
+                    backgroundColor: [
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(54, 162, 235, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgb(75, 192, 192)',
+                        'rgb(75, 192, 192)',
+                        'rgb(75, 192, 192)',
+                        'rgb(75, 192, 192)',
+                        'rgb(54, 162, 235)',
+                        'rgb(54, 162, 235)',
+                        'rgb(54, 162, 235)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+        </script>
 
         <table>
             <tr>
@@ -122,7 +162,7 @@
         
         <!-- Other Byte Here -->
 
-        <h3>Other Bits/Byte</h3>
+        <h2>Other Bits/Byte</h2>
 
         <ul>
             <li>Understanding of software development processes.</li>
