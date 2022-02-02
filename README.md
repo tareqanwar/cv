@@ -104,7 +104,7 @@ NodeJS
 
 <td>
 
-2+ years experience on various personal projects. 
+4+ years experience on various projects during Funnel Geeks and some recent personal project. 
 
 </td>
 
