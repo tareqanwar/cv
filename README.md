@@ -149,7 +149,13 @@ Working on a pet project with Ruby on Rails. Building backend API with GraphQL.
 EXPERIENCE
 ----------
 
-### Bold Commerce, Winnipeg, Canada (Jan 2019 to Present)
+### Amazon, Seattle, USA (Apr 2022 to Present)
+
+Software Development Engineer II
+
+-   Joined Amazon as a Software Development Engineer in April 2022 and currently work as a Software Development Engineer II.
+
+### Bold Commerce, Winnipeg, Canada (Jan 2019 to Mar 2022)
 
 Software Developer
 
