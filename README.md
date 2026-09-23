@@ -34,6 +34,38 @@ I'm passionate about programming and have more than seven years of experience wo
 
 <td>
 
+Java
+
+</td>
+
+<td>
+
+4+ years professional experience, including backend service development at Amazon.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Python
+
+</td>
+
+<td>
+
+1 year experience using Python for scripting, automation, and software development.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
 JavaScript
 
 </td>
@@ -114,13 +146,13 @@ NodeJS
 
 <td>
 
-C++ & Java
+C++
 
 </td>
 
 <td>
 
-1 years experience in school and various problem solving. 
+1 year experience in school and various problem solving. 
 
 </td>
 
