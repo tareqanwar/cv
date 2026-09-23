@@ -154,6 +154,10 @@ EXPERIENCE
 Software Development Engineer II
 
 -   Joined Amazon as a Software Development Engineer in April 2022 and currently work as a Software Development Engineer II.
+-   Design, develop, test, and maintain backend services and customer-facing features using Java and TypeScript.
+-   Build and operate scalable applications using AWS services and cloud-based infrastructure.
+-   Participate in technical design, code reviews, debugging, testing, deployment, and production support.
+-   Work with cross-functional engineering teams to improve system reliability, performance, and maintainability.
 
 ### Bold Commerce, Winnipeg, Canada (Jan 2019 to Mar 2022)
 
