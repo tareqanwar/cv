@@ -1,190 +1,91 @@
 <!doctype html>
 <html lang="en">
-
 <head>
     <title>Mohammad Tareq Bin Anwar :: CV</title>
     <meta charset="utf-8" />
     <meta name="author" content="Tareq Anwar">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
-
-    <!-- Styles -->
-    <link href="https://fonts.googleAPIs.com/css?family=Open+Sans:400,700,800" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet" />
     <link href="./styles/style.css" rel="stylesheet" />
     <link href="./styles/print.css" rel="stylesheet" media="print" />
-    
-    <!-- Scripts -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.6.0/chart.min.js" integrity="sha512-GMGzUEevhWh8Tc/njS0bDpwgxdCJLQBWG3Z2Ct+JGOpVnEmjvNx6ts4v6A2XJf1HOrtOsfhv3hBKpK9kE5z8AQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
-
 <body>
     <div class="wrapper">
         <h1>Mohammad Tareq Bin Anwar</h1>
-        <p class="sub-title">Programmer   |   📧 trqnwr@gmail.com</p>
-
-        <!-- Overview Starts Here -->
+        <p class="sub-title">Software Development Engineer II | 📧 trqnwr@gmail.com</p>
 
         <h2>Overview</h2>
-
         <p>
-            I'm passionate about programming and have more than seven years of experience working onsite and remote as a developer. 
-            I have a four years BSc in Computer Science degree and a one-year programming degree. 
-            To my colleagues, I am known for accepting new challenges, carrying and delivering the work. 
-            I love technology and am blessed to be born in this era.
+            Software engineer with more than 10 years of professional development experience across backend,
+            web, and customer-facing systems. Currently a Software Development Engineer II at Amazon, working
+            primarily with Java, TypeScript, AWS services, and scalable backend applications. I hold a B.Sc.
+            in Computer Science and Engineering and a post-degree diploma in Web Development.
         </p>
 
-        <!-- Overview Ends Here -->
-        
-        <!-- Skills Starts Here -->
-
         <h2>Skills</h2>
-        
-        <canvas id="skillChart" width="400" height="95"></canvas>
-        <script>
-        const ctx = document.getElementById('skillChart').getContext('2d');
-        const skillChart = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: ['Java', 'Python', 'JavaScript', 'PHP & Laravel', 'SQL', 'React', 'NodeJs', 'C++', 'Ruby on Rails'],
-                datasets: [{
-                    label: 'Professional Experience',
-                    data: [4, 1, 8, 8, 8, 4, 4, 0, 0],
-                    backgroundColor: [
-                        'rgba(0, 0, 0, 0.6)',
-                        'rgba(0, 0, 0, 0.6)',
-                        'rgba(0, 0, 0, 0.6)',
-                        'rgba(0, 0, 0, 0.6)',
-                        'rgba(0, 0, 0, 0.6)',
-                        'rgba(0, 0, 0, 0.6)',
-                        'rgba(0, 0, 0, 0.6)'
-                    ],
-                    borderWidth: 0
-                },
-                {
-                    label: 'Personal Experience',
-                    data: [1, 1, 2, 2, 2, 0, 2, 1, 1],
-                    backgroundColor: [
-                        'rgba(0, 0, 0, 0.4)',
-                        'rgba(0, 0, 0, 0.4)',
-                        'rgba(0, 0, 0, 0.4)',
-                        'rgba(0, 0, 0, 0.4)',
-                        'rgba(0, 0, 0, 0.4)',
-                        'rgba(0, 0, 0, 0.4)',
-                        'rgba(0, 0, 0, 0.4)',
-                    ],
-                    borderWidth: 0
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
-        </script>
-        
-        <!--
         <table>
-            <tr>
-                <th>
-                    <h3>Language</h3>
-                </th>
-                <th>
-                    <h3>Experience</h3>
-                </th>
-            <tr>
-                <td>
-                    <p>Java | Python | JavaScript | React & Redux</p>
-                </td>
-                <td>
-                    <p>Excellent in Javascript. Worked with React and Redux on various projects.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>PHP &amp; SQL</p>
-                </td>
-                <td>
-                    <p>Excellent skill in PHP. Worked on Laravel a lot. Have a lot of experience in building and integrating Rest and GraphQL API.</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Ruby on Rails</p>
-                </td>
-                <td>
-                    <p>Working on a pet project with Ruby on Rails. Building backend API with GraphQL.</p>
-                </td>
-            </tr>
+            <tr><th>Technology</th><th>Experience</th></tr>
+            <tr><td><strong>Java</strong></td><td>4+ years of professional experience, including backend service development at Amazon.</td></tr>
+            <tr><td><strong>TypeScript / JavaScript</strong></td><td>Extensive professional experience building web and service applications; TypeScript used professionally at Amazon.</td></tr>
+            <tr><td><strong>Python</strong></td><td>1 year of experience with scripting, automation, and software development.</td></tr>
+            <tr><td><strong>AWS</strong></td><td>Professional experience developing and operating applications using AWS services and cloud infrastructure.</td></tr>
+            <tr><td><strong>PHP / Laravel</strong></td><td>8+ years of professional experience, including 4+ years with Laravel.</td></tr>
+            <tr><td><strong>SQL</strong></td><td>8+ years of professional experience.</td></tr>
+            <tr><td><strong>React</strong></td><td>4+ years of professional experience.</td></tr>
+            <tr><td><strong>Node.js</strong></td><td>4+ years across professional and personal projects.</td></tr>
+            <tr><td><strong>C++</strong></td><td>Academic and problem-solving experience.</td></tr>
+            <tr><td><strong>Other</strong></td><td>Docker, Kubernetes, CI/CD, REST APIs, GraphQL, Ruby on Rails.</td></tr>
         </table>
-        
-        <-- Skills Ends Here -->
-
-        <!-- Experience Start Here -->
 
         <h2>Experience</h2>
 
-        <h3>Bold Commerce, Winnipeg, Canada (Jan 2019 to Present)</h3>
-
-        <p>Software Developer</p>
-
+        <h3>Amazon, USA (Apr 2022 to Present)</h3>
+        <p><strong>Software Development Engineer II</strong></p>
         <ul>
-            <li>Working on headless Checkout system.</li>
-            <li>Contributing to building and managing scalable apps and features.</li>
-            <li>Integrating various payment gateways and methods.</li>
+            <li>Joined Amazon as a Software Development Engineer in April 2022 and progressed to Software Development Engineer II.</li>
+            <li>Design, develop, test, and maintain backend services and customer-facing features using Java and TypeScript.</li>
+            <li>Build and operate scalable applications using AWS services and cloud infrastructure.</li>
+            <li>Participate in technical design, code reviews, debugging, automated testing, deployment, and production support.</li>
+            <li>Collaborate with cross-functional engineering teams to improve system reliability, performance, and maintainability.</li>
         </ul>
-        
+
+        <h3>Bold Commerce, Winnipeg, Canada (Jan 2019 to Mar 2022)</h3>
+        <p><strong>Software Developer</strong></p>
+        <ul>
+            <li>Worked on a headless checkout system.</li>
+            <li>Built and maintained scalable applications and customer-facing features.</li>
+            <li>Integrated payment gateways, payment methods, and third-party services.</li>
+        </ul>
+
         <h3>Funnel Geeks LLC, USA (Nov 2013 to Dec 2017)</h3>
-
-        <p>Remote Web Developer</p>
-
+        <p><strong>Remote Web Developer</strong></p>
         <ul>
-            <li>Built a lot of high converting sales funnel with 3rd party tools, and APIs. Turned concept into production.</li>
-            <li>Built lots of API scripts to do various custom tasks and jobs. </li>
+            <li>Built production sales funnels and web applications integrated with third-party tools and APIs.</li>
+            <li>Developed API integrations and automation scripts for custom business workflows.</li>
         </ul>
-        
-        <!-- Experience Ends Here -->
-
-        <!-- Education Starts Here -->
 
         <h2>Education</h2>
 
-        <h3>Professional Diploma in Web Development, The University of Winnipeg, Canada (Jan 2018 to Dec 2018)</h3>
-
+        <h3>Post-Degree Diploma in Web Development, The University of Winnipeg, Canada (2018)</h3>
         <ul>
-            <li>Most of the courses were related to programming.</li>
-            <li>There were few other PM and communication-related courses.</li>
+            <li>Coursework focused primarily on programming, web development, project management, and professional communication.</li>
         </ul>
 
-        <h3>B.Sc. in Computer Science and Engineering, International Islamic University, Bangladesh (2008 to 2013)</h3>
-
+        <h3>B.Sc. in Computer Science and Engineering, International Islamic University Chittagong, Bangladesh (2008 to 2013)</h3>
         <ul>
-            <li>Data Structure, OOP, Software Engineering, Algorithms, Math, AI, Operating Systems, C, C++, Java</li>
+            <li>Coursework included Data Structures, Object-Oriented Programming, Software Engineering, Algorithms, Mathematics, Artificial Intelligence, Operating Systems, C, C++, and Java.</li>
         </ul>
 
-        <!-- Education Ends Here -->  
-        
-        <!-- Other Byte Here -->
-
-        <h2>Other Bits/Byte</h2>
-
+        <h2>Additional Experience</h2>
         <ul>
-            <li>2+ Years freelancing and teaching experience from March 2011 to October 2013</li>
-            <li>Understanding of software development processes.</li>
-            <li>Building and debugging scalable applications.</li>
-            <li>Building backend services as well as all frontend clients.</li>
-            <li>Can work well both independently and with a team.</li>
-            <li>Good understanding of Docker, K8, and various CIs.</li>
-            <li>Love keeping up to date with tech news and gadgets.</li>
-            <li>Love linux & selfhosting. Built my RaspberryPI server and NAS.</li>
+            <li>2+ years of freelancing and teaching experience from March 2011 to October 2013.</li>
+            <li>Experience building and debugging scalable backend services and frontend applications.</li>
+            <li>Comfortable working independently and collaboratively across the software development lifecycle.</li>
+            <li>Experience with Docker, Kubernetes, CI/CD systems, Linux, and self-hosted infrastructure.</li>
         </ul>
-        
-        <!-- Other Byte Ends Here -->
     </div>
 
-    <button class="print-button" onclick="javascript:window.print()"><span class="print-icon"></span></button>
+    <button class="print-button" onclick="window.print()"><span class="print-icon"></span></button>
 </body>
-
 </html>
