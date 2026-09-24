@@ -6,7 +6,7 @@ Programmer | 📧 trqnwr@gmail.com
 OVERVIEW
 --------
 
-I'm passionate about programming and have more than seven years of experience working onsite and remote as a developer. I have a four years BSc in Computer Science degree and a one-year programming degree. To my colleagues, I am known for accepting new challenges, carrying and delivering the work. I love technology and am blessed to be born in this era.
+I'm passionate about programming and have 7+ years of professional software development experience across Bold Commerce and Amazon. I have a four years BSc in Computer Science degree and a one-year programming degree. To my colleagues, I am known for accepting new challenges, carrying and delivering the work. I love technology and am blessed to be born in this era.
 
 ## Skills
 
