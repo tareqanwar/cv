@@ -199,12 +199,6 @@ Software Developer
 -   Contributing to building and managing scalable apps and features.
 -   Integrating various payment gateways and methods.
 
-### Funnel Geeks LLC, USA (Nov 2013 to Dec 2017)
-
-Remote Web Developer
-
--   Built a lot of high converting sales funnel with 3rd party tools, and APIs. Turned concept into production.
--   Built lots of API scripts to do various custom tasks and jobs.
 
 ## Education
 
