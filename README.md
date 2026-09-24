@@ -209,6 +209,8 @@ Software Developer
 
 ### B.Sc. in Computer Science and Engineering, International Islamic University, Bangladesh (2008 to 2013)
 
+GPA: 3.050 / 4.000
+
 -   Data Structure, OOP, Software Engineering, Algorithms, Math, AI, Operating Systems, C, C++, Java
 
 ## Other bits/byte
